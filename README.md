@@ -1,39 +1,29 @@
-🍽️ The Spice : Restaurant Website, Frontend Project
+🍽️ Restaurant Website (Frontend)
 
-A responsive and user-friendly restaurant website built using HTML, CSS, and JavaScript, designed to provide complete information about the restaurant including menu, cuisines, online booking & ordering, contact details, social media links, and customer feedback.
+A modern and responsive restaurant website frontend built using HTML, CSS, and JavaScript.
+The project provides complete information about the restaurant, its menu and cuisines, online booking and ordering options, contact details, social media links, and customer feedback.
 
-📌 Project Overview
+🌐 Live Preview
 
-This project showcases a modern restaurant website that allows users to:
+Add your deployed link here (GitHub Pages / Netlify / Vercel)
 
-Explore restaurant details and cuisines
+📖 About the Project
 
-View the full menu with prices
+This project aims to create an interactive and visually appealing restaurant website that enhances user experience and provides all essential restaurant-related information in one place.
 
-Book tables and place food orders
+✨ Features
 
-Submit feedback and reviews
-
-Connect via social media platforms
-
-The website is fully responsive and optimized for desktop and mobile devices.
-
-🚀 Features
-🏠 Restaurant Information
+📍 Restaurant Details
 
 About the restaurant
 
-Ambience and theme
+Location and opening hours
 
-Opening hours and location
+🍛 Menu & Cuisines
 
-📋 Menu & Cuisines
+Categorized menu
 
-Categorized food menu
-
-Multiple cuisines (e.g., Indian, Italian, Chinese, Continental)
-
-Prices and descriptions
+Multiple cuisines with prices
 
 📅 Table Booking
 
@@ -41,23 +31,17 @@ Online table reservation form
 
 Date, time, and guest selection
 
-Basic form validation using JavaScript
-
 🛒 Online Ordering
 
 Food ordering interface
 
-Order summary
-
-Contact and delivery details
+Order details and confirmation
 
 💬 Customer Feedback
 
 Feedback and review form
 
-Rating system
-
-User input validation
+Ratings and suggestions
 
 📞 Contact & Social Media
 
@@ -65,12 +49,36 @@ Contact form
 
 Phone number and email
 
-Social media handles (Instagram, Facebook, Twitter, etc.)
+Social media handles
 
-🛠️ Technologies Used
+🛠️ Tech Stack
 
-HTML5 – Structure and content
+HTML5 – Page structure
 
-CSS3 – Styling and layout
+CSS3 – Styling and responsiveness
 
-JavaScript (ES6) – Interactivity and form validation
+JavaScript – Interactivity and validation
+
+
+🚀 Getting Started
+
+Open the project folder
+
+Run Restaurant.html in your browser
+
+🔮 Future Improvements
+
+Backend integration for bookings and orders
+
+Payment gateway integration
+
+User authentication
+
+Admin dashboard
+
+Database support
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request.
